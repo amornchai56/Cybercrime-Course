@@ -1,10 +1,4 @@
-# Cybercrime-Course
-This is a draft for create cybercrime course
-aa
-bb
-cc
-dd
+# ความรู้พื้นฐานเกี่ยวกับการสืบสวนสอบสวนคดีอาชญากรรมทางเทคโนโลยี
+# Basic Cybercrime Investigation
 
-
-asdf
-adsf
+ความรู้ที่นำมาเผยแพร่นี้รวบรวมจากความรู้ทั่วไปและหลักสูตรฝึกอบรมต่างๆ
